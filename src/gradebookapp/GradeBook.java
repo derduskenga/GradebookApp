@@ -32,6 +32,7 @@ public class GradeBook {
     }
     
     public void displayMessage(){
+        //we have pushed this to Github
         System.out.println("Welcome to " + this.courseName);
     }
 }
